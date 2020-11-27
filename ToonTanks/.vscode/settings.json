@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"D:/UE4 - projekty/Toon Tanks/Toon-Tanks/ToonTanks/.vscode": true,
+		"D:/UE4 - projekty/Toon Tanks/Toon-Tanks/ToonTanks/Content": true,
+		"D:/UE4 - projekty/Toon Tanks/Toon-Tanks/ToonTanks/DerivedDataCache": true,
+		"D:/UE4 - projekty/Toon Tanks/Toon-Tanks/ToonTanks/Intermediate": true,
+		"D:/UE4 - projekty/Toon Tanks/Toon-Tanks/ToonTanks/Saved": true
+	}
+}
